@@ -1,0 +1,15 @@
+C:\RFP-231-Assg\EmployeeWageProgram\bin\Debug\net6.0\EmployeeWageProgram.exe
+C:\RFP-231-Assg\EmployeeWageProgram\bin\Debug\net6.0\EmployeeWageProgram.deps.json
+C:\RFP-231-Assg\EmployeeWageProgram\bin\Debug\net6.0\EmployeeWageProgram.runtimeconfig.json
+C:\RFP-231-Assg\EmployeeWageProgram\bin\Debug\net6.0\EmployeeWageProgram.dll
+C:\RFP-231-Assg\EmployeeWageProgram\bin\Debug\net6.0\EmployeeWageProgram.pdb
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.csproj.AssemblyReference.cache
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.AssemblyInfoInputs.cache
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.AssemblyInfo.cs
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.csproj.CoreCompileInputs.cache
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.dll
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\refint\EmployeeWageProgram.dll
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.pdb
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\EmployeeWageProgram.genruntimeconfig.cache
+C:\RFP-231-Assg\EmployeeWageProgram\obj\Debug\net6.0\ref\EmployeeWageProgram.dll
