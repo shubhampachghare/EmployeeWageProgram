@@ -4,7 +4,7 @@ namespace EmployeeWageComputationProblems
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             EmpWageBuilderArray empWageBuilder = new EmpWageBuilderArray();
             empWageBuilder.addCompanyEmpWage("Dmart", 20, 2, 10);
