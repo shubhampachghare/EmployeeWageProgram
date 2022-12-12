@@ -61,5 +61,9 @@ namespace EmployeeWageComputationProblems
             }
             return totalEmployeeHour * companyEmpWage.empRatePerHour;
         }
+        public int getTotalWage(string company)
+        {
+            return this.companyToEmpWageMap[company].totalEmpWages;
+        }
     }
 }
